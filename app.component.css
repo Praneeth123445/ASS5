@@ -1,0 +1,39 @@
+body
+{
+    background-color:rgb(236, 219, 219);
+}
+h1
+{
+    color:rgb(113, 34, 178);
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 45px;
+}
+a
+{
+    text-decoration: none;
+    color:darkblue;
+    font-family:'Times New Roman';
+    font-size: 33px;
+    margin:9px;
+}
+h4
+{
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    color:teal;
+    padding:9px;
+}
+table
+{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: rgb(235, 224, 224);
+}
+td,th
+{
+    border:2px solid black;
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    padding:2px;
+}
